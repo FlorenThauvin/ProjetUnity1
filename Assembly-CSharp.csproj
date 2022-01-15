@@ -44,7 +44,10 @@
      <Compile Include="Assets\Script\PlayerMov.cs" />
      <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Script\MouseLook.cs" />
+     <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
      <None Include="Assets\PollyPrivateers\Readme.txt" />
+     <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
+     <None Include="Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
      <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
      <None Include="Assets\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
     <Reference Include="UnityEngine">
