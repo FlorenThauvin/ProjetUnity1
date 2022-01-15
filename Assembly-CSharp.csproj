@@ -36,15 +36,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\PlayerMov.cs" />
-     <Compile Include="Assets\Script\MouseLook.cs" />
-     <Compile Include="Assets\Script\Turn.cs" />
-     <Compile Include="Assets\Script\TurnLight.cs" />
-     <Compile Include="Assets\Script\Pick.cs" />
-     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\MouseCamLook.cs" />
-     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\CharacterController.cs" />
      <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scripts\LightImprove.cs" />
+     <Compile Include="Assets\Script\TurnLight.cs" />
+     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\MouseCamLook.cs" />
+     <Compile Include="Assets\Script\Turn.cs" />
+     <Compile Include="Assets\Script\Pick.cs" />
+     <Compile Include="Assets\Script\PlayerMov.cs" />
+     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\CharacterController.cs" />
+     <Compile Include="Assets\Script\MouseLook.cs" />
      <None Include="Assets\PollyPrivateers\Readme.txt" />
+     <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
+     <None Include="Assets\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
