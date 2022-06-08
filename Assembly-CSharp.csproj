@@ -36,23 +36,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scripts\LightImprove.cs" />
+     <Compile Include="Assets\AssetUnity\BrokenVector\UltimateDungeonPack\Scripts\LightImprove.cs" />
      <Compile Include="Assets\Script\TurnLight.cs" />
      <Compile Include="Assets\Script\TurnLight2.cs" />
-     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\MouseCamLook.cs" />
+     <Compile Include="Assets\AssetUnity\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\MouseCamLook.cs" />
      <Compile Include="Assets\Script\Turn.cs" />
      <Compile Include="Assets\Script\Pick.cs" />
-     <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
+     <Compile Include="Assets\AssetUnity\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
      <Compile Include="Assets\Script\Rotate.cs" />
      <Compile Include="Assets\Script\PlayerMov.cs" />
      <Compile Include="Assets\Script\Turn2.cs" />
-     <Compile Include="Assets\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\CharacterController.cs" />
+     <Compile Include="Assets\AssetUnity\BrokenVector\UltimateDungeonPack\Scenes\Demo\FPControls\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Script\MouseLook.cs" />
-     <None Include="Assets\PollyPrivateers\Readme.txt" />
-     <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
-     <None Include="Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
-     <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
-     <None Include="Assets\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
+     <None Include="Assets\AssetUnity\PollyPrivateers\Readme.txt" />
+     <None Include="Assets\AssetUnity\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
+     <None Include="Assets\AssetUnity\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
+     <None Include="Assets\AssetUnity\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
+     <None Include="Assets\AssetUnity\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -277,6 +277,12 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>C:\Users\HP\Desktop\Unity\Taverne\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
